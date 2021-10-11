@@ -10,6 +10,10 @@ package student;
  * @author Ronak
  */
 public class Student {
+       
+       
+       //changes done on github
+       
        private String name;
        private String address;
        private double marks;
@@ -22,7 +26,6 @@ public class Student {
     public void setMarks(double marks) {
         this.marks = marks;
     }
-       
 
     public String getAddress() {
         return address;
